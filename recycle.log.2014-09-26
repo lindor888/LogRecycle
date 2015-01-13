@@ -1,0 +1,150 @@
+2014-09-26 10:10:03,383 [LogRecycle]-[DEBUG] ---------recycle log file before 3 days beging-----
+ 2014-09-26 10:10:03,586 [LogRecycle]-[DEBUG] ---------recycleLog for folder [C:\WisageTech\8thManage\logs\ONTARIO\node1] start-----------
+ 2014-09-26 10:10:03,617 [LogRecycle]-[DEBUG] ---------recycle log file 0 sucessful.---------
+ 2014-09-26 10:10:03,617 [LogRecycle]-[DEBUG] ---------recycleLog for folder [C:\WisageTech\8thManage\logs\ONTARIO\node1] end-----------
+ 2014-09-26 10:10:03,617 [LogRecycle]-[DEBUG] ---------recycleLog for folder [C:\WisageTech2.1\8thManage\logs\ONTARIO\node1] start-----------
+ 2014-09-26 10:10:03,680 [LogRecycle]-[DEBUG] ---------recycle log file 0 sucessful.---------
+ 2014-09-26 10:10:03,680 [LogRecycle]-[DEBUG] ---------recycleLog for folder [C:\WisageTech2.1\8thManage\logs\ONTARIO\node1] end-----------
+ 2014-09-26 10:10:03,680 [LogRecycle]-[DEBUG] ---------recycleLog for folder [C:\WisageTech2.1SCMP\8thManage\logs\ONTARIO\node1] start-----------
+ 2014-09-26 10:10:03,711 [LogRecycle]-[DEBUG] ---------recycle log file 0 sucessful.---------
+ 2014-09-26 10:10:03,711 [LogRecycle]-[DEBUG] ---------recycleLog for folder [C:\WisageTech2.1SCMP\8thManage\logs\ONTARIO\node1] end-----------
+ 2014-09-26 10:10:03,711 [LogRecycle]-[DEBUG] ---------recycleLog for folder [C:\WisageTech2.3\8thManage\logs\ONTARIO\node1] start-----------
+ 2014-09-26 10:10:03,835 [LogRecycle]-[DEBUG] ---------recycleLog file [C:\WisageTech2.3\8thManage\logs\ONTARIO\node1\8thManage.log.2014-05-26] sucessful-----------
+ 2014-09-26 10:10:03,867 [LogRecycle]-[DEBUG] ---------recycleLog file [C:\WisageTech2.3\8thManage\logs\ONTARIO\node1\8thManage.log.2014-05-27] sucessful-----------
+ 2014-09-26 10:10:03,882 [LogRecycle]-[DEBUG] ---------recycleLog file [C:\WisageTech2.3\8thManage\logs\ONTARIO\node1\8thManage.log.2014-05-28] sucessful-----------
+ 2014-09-26 10:10:03,882 [LogRecycle]-[DEBUG] ---------recycleLog file [C:\WisageTech2.3\8thManage\logs\ONTARIO\node1\8thManage.log.2014-05-29] sucessful-----------
+ 2014-09-26 10:10:03,913 [LogRecycle]-[DEBUG] ---------recycleLog file [C:\WisageTech2.3\8thManage\logs\ONTARIO\node1\8thManage.log.2014-05-30] sucessful-----------
+ 2014-09-26 10:10:03,913 [LogRecycle]-[DEBUG] ---------recycleLog file [C:\WisageTech2.3\8thManage\logs\ONTARIO\node1\8thManage.log.2014-06-03] sucessful-----------
+ 2014-09-26 10:10:03,945 [LogRecycle]-[DEBUG] ---------recycleLog file [C:\WisageTech2.3\8thManage\logs\ONTARIO\node1\8thManage.log.2014-06-06] sucessful-----------
+ 2014-09-26 10:10:03,945 [LogRecycle]-[DEBUG] ---------recycleLog file [C:\WisageTech2.3\8thManage\logs\ONTARIO\node1\8thManage.log.2014-06-12] sucessful-----------
+ 2014-09-26 10:10:03,960 [LogRecycle]-[DEBUG] ---------recycleLog file [C:\WisageTech2.3\8thManage\logs\ONTARIO\node1\8thManage.log.2014-06-13] sucessful-----------
+ 2014-09-26 10:10:03,976 [LogRecycle]-[DEBUG] ---------recycleLog file [C:\WisageTech2.3\8thManage\logs\ONTARIO\node1\8thManage.log.2014-06-14] sucessful-----------
+ 2014-09-26 10:10:03,976 [LogRecycle]-[DEBUG] ---------recycleLog file [C:\WisageTech2.3\8thManage\logs\ONTARIO\node1\8thManage.log.2014-06-16] sucessful-----------
+ 2014-09-26 10:10:03,991 [LogRecycle]-[DEBUG] ---------recycleLog file [C:\WisageTech2.3\8thManage\logs\ONTARIO\node1\8thManage.log.2014-06-19] sucessful-----------
+ 2014-09-26 10:10:04,007 [LogRecycle]-[DEBUG] ---------recycleLog file [C:\WisageTech2.3\8thManage\logs\ONTARIO\node1\8thManage.log.2014-06-23] sucessful-----------
+ 2014-09-26 10:10:04,007 [LogRecycle]-[DEBUG] ---------recycleLog file [C:\WisageTech2.3\8thManage\logs\ONTARIO\node1\8thManage.log.2014-06-24] sucessful-----------
+ 2014-09-26 10:10:04,022 [LogRecycle]-[DEBUG] ---------recycleLog file [C:\WisageTech2.3\8thManage\logs\ONTARIO\node1\8thManage.log.2014-06-25] sucessful-----------
+ 2014-09-26 10:10:04,022 [LogRecycle]-[DEBUG] ---------recycleLog file [C:\WisageTech2.3\8thManage\logs\ONTARIO\node1\8thManage.log.2014-06-26] sucessful-----------
+ 2014-09-26 10:10:04,038 [LogRecycle]-[DEBUG] ---------recycleLog file [C:\WisageTech2.3\8thManage\logs\ONTARIO\node1\8thManage.log.2014-06-27] sucessful-----------
+ 2014-09-26 10:10:04,054 [LogRecycle]-[DEBUG] ---------recycleLog file [C:\WisageTech2.3\8thManage\logs\ONTARIO\node1\8thManage.log.2014-07-02] sucessful-----------
+ 2014-09-26 10:10:04,069 [LogRecycle]-[DEBUG] ---------recycleLog file [C:\WisageTech2.3\8thManage\logs\ONTARIO\node1\8thManage.log.2014-07-25] sucessful-----------
+ 2014-09-26 10:10:04,069 [LogRecycle]-[DEBUG] ---------recycleLog file [C:\WisageTech2.3\8thManage\logs\ONTARIO\node1\8thManage.log.2014-09-11] sucessful-----------
+ 2014-09-26 10:10:04,085 [LogRecycle]-[DEBUG] ---------recycleLog file [C:\WisageTech2.3\8thManage\logs\ONTARIO\node1\8thManage.log.2014-09-12] sucessful-----------
+ 2014-09-26 10:10:04,085 [LogRecycle]-[DEBUG] ---------recycleLog file [C:\WisageTech2.3\8thManage\logs\ONTARIO\node1\8thManage.log.2014-09-15] sucessful-----------
+ 2014-09-26 10:10:04,100 [LogRecycle]-[DEBUG] ---------recycleLog file [C:\WisageTech2.3\8thManage\logs\ONTARIO\node1\8thManage.log.2014-09-16] sucessful-----------
+ 2014-09-26 10:10:04,100 [LogRecycle]-[DEBUG] ---------recycleLog file [C:\WisageTech2.3\8thManage\logs\ONTARIO\node1\8thManage.log.2014-09-17] sucessful-----------
+ 2014-09-26 10:10:04,116 [LogRecycle]-[DEBUG] ---------recycleLog file [C:\WisageTech2.3\8thManage\logs\ONTARIO\node1\8thManage.log.2014-09-19] sucessful-----------
+ 2014-09-26 10:10:04,132 [LogRecycle]-[DEBUG] ---------recycleLog file [C:\WisageTech2.3\8thManage\logs\ONTARIO\node1\8thManage.log.2014-09-22] sucessful-----------
+ 2014-09-26 10:10:04,132 [LogRecycle]-[DEBUG] ---------recycle log file 26 sucessful.---------
+ 2014-09-26 10:10:04,132 [LogRecycle]-[DEBUG] ---------recycleLog for folder [C:\WisageTech2.3\8thManage\logs\ONTARIO\node1] end-----------
+ 2014-09-26 10:10:04,132 [LogRecycle]-[DEBUG] ---------recycleLog for folder [C:\WisageTechAvnet\8thManage\logs\ONTARIO\node1] start-----------
+ 2014-09-26 10:10:04,178 [LogRecycle]-[DEBUG] ---------recycle log file 0 sucessful.---------
+ 2014-09-26 10:10:04,178 [LogRecycle]-[DEBUG] ---------recycleLog for folder [C:\WisageTechAvnet\8thManage\logs\ONTARIO\node1] end-----------
+ 2014-09-26 10:10:04,178 [LogRecycle]-[DEBUG] ---------recycleLog for folder [C:\WisageTechBPS\8thManage\logs\ONTARIO\node1] start-----------
+ 2014-09-26 10:10:04,210 [LogRecycle]-[DEBUG] ---------recycle log file 0 sucessful.---------
+ 2014-09-26 10:10:04,210 [LogRecycle]-[DEBUG] ---------recycleLog for folder [C:\WisageTechBPS\8thManage\logs\ONTARIO\node1] end-----------
+ 2014-09-26 10:10:04,210 [LogRecycle]-[DEBUG] ---------recycleLog for folder [C:\WisageTechCMCC\8thManage\logs\ONTARIO\node1] start-----------
+ 2014-09-26 10:10:04,241 [LogRecycle]-[DEBUG] ---------recycle log file 0 sucessful.---------
+ 2014-09-26 10:10:04,241 [LogRecycle]-[DEBUG] ---------recycleLog for folder [C:\WisageTechCMCC\8thManage\logs\ONTARIO\node1] end-----------
+ 2014-09-26 10:10:04,241 [LogRecycle]-[DEBUG] ---------recycleLog for folder [C:\WisageTechCMI\8thManage\logs\ONTARIO\node1] start-----------
+ 2014-09-26 10:10:04,256 [LogRecycle]-[DEBUG] ---------recycle log file 0 sucessful.---------
+ 2014-09-26 10:10:04,256 [LogRecycle]-[DEBUG] ---------recycleLog for folder [C:\WisageTechCMI\8thManage\logs\ONTARIO\node1] end-----------
+ 2014-09-26 10:10:04,256 [LogRecycle]-[DEBUG] ---------recycleLog for folder [C:\WisageTechConsen\8thManage\logs\ONTARIO\node1] start-----------
+ 2014-09-26 10:10:04,287 [LogRecycle]-[DEBUG] ---------recycle log file 0 sucessful.---------
+ 2014-09-26 10:10:04,287 [LogRecycle]-[DEBUG] ---------recycleLog for folder [C:\WisageTechConsen\8thManage\logs\ONTARIO\node1] end-----------
+ 2014-09-26 10:10:04,287 [LogRecycle]-[DEBUG] ---------recycleLog for folder [C:\WisageTechDailywin\8thManage\logs\ONTARIO\node1] start-----------
+ 2014-09-26 10:10:04,319 [LogRecycle]-[DEBUG] ---------recycle log file 0 sucessful.---------
+ 2014-09-26 10:10:04,319 [LogRecycle]-[DEBUG] ---------recycleLog for folder [C:\WisageTechDailywin\8thManage\logs\ONTARIO\node1] end-----------
+ 2014-09-26 10:10:04,319 [LogRecycle]-[DEBUG] ---------recycleLog for folder [C:\WisageTechDEMO\8thManage\logs\ONTARIO\node1] start-----------
+ 2014-09-26 10:10:04,350 [LogRecycle]-[DEBUG] ---------recycle log file 0 sucessful.---------
+ 2014-09-26 10:10:04,350 [LogRecycle]-[DEBUG] ---------recycleLog for folder [C:\WisageTechDEMO\8thManage\logs\ONTARIO\node1] end-----------
+ 2014-09-26 10:10:04,350 [LogRecycle]-[DEBUG] ---------recycleLog for folder [C:\WisageTechEmail\8thManage\logs\ONTARIO\node1] start-----------
+ 2014-09-26 10:10:04,365 [LogRecycle]-[DEBUG] ---------recycle log file 0 sucessful.---------
+ 2014-09-26 10:10:04,365 [LogRecycle]-[DEBUG] ---------recycleLog for folder [C:\WisageTechEmail\8thManage\logs\ONTARIO\node1] end-----------
+ 2014-09-26 10:10:04,365 [LogRecycle]-[DEBUG] ---------recycleLog for folder [C:\WisageTechFangXin\8thManage\logs\ONTARIO\node1] start-----------
+ 2014-09-26 10:10:04,412 [LogRecycle]-[DEBUG] ---------recycle log file 0 sucessful.---------
+ 2014-09-26 10:10:04,412 [LogRecycle]-[DEBUG] ---------recycleLog for folder [C:\WisageTechFangXin\8thManage\logs\ONTARIO\node1] end-----------
+ 2014-09-26 10:10:04,412 [LogRecycle]-[DEBUG] ---------recycleLog for folder [C:\WisageTechGHBank\8thManage\logs\ONTARIO\node1] start-----------
+ 2014-09-26 10:10:04,506 [LogRecycle]-[DEBUG] ---------recycleLog file [C:\WisageTechGHBank\8thManage\logs\ONTARIO\node1\8thManage.log.2014-09-01] sucessful-----------
+ 2014-09-26 10:10:04,521 [LogRecycle]-[DEBUG] ---------recycleLog file [C:\WisageTechGHBank\8thManage\logs\ONTARIO\node1\8thManage.log.2014-09-05] sucessful-----------
+ 2014-09-26 10:10:04,521 [LogRecycle]-[DEBUG] ---------recycle log file 2 sucessful.---------
+ 2014-09-26 10:10:04,521 [LogRecycle]-[DEBUG] ---------recycleLog for folder [C:\WisageTechGHBank\8thManage\logs\ONTARIO\node1] end-----------
+ 2014-09-26 10:10:04,521 [LogRecycle]-[DEBUG] ---------recycleLog for folder [C:\WisageTechHeadDemo\8thManage\logs\ONTARIO\node1] start-----------
+ 2014-09-26 10:10:04,537 [LogRecycle]-[DEBUG] ---------recycle log file 0 sucessful.---------
+ 2014-09-26 10:10:04,537 [LogRecycle]-[DEBUG] ---------recycleLog for folder [C:\WisageTechHeadDemo\8thManage\logs\ONTARIO\node1] end-----------
+ 2014-09-26 10:10:04,537 [LogRecycle]-[DEBUG] ---------recycleLog for folder [C:\WisageTechHKR\8thManage\logs\ONTARIO\node1] start-----------
+ 2014-09-26 10:10:04,584 [LogRecycle]-[DEBUG] ---------recycle log file 0 sucessful.---------
+ 2014-09-26 10:10:04,584 [LogRecycle]-[DEBUG] ---------recycleLog for folder [C:\WisageTechHKR\8thManage\logs\ONTARIO\node1] end-----------
+ 2014-09-26 10:10:04,584 [LogRecycle]-[DEBUG] ---------recycleLog for folder [C:\WisageTechHT\8thManage\logs\ONTARIO\node1] start-----------
+ 2014-09-26 10:10:04,646 [LogRecycle]-[DEBUG] ---------recycleLog file [C:\WisageTechHT\8thManage\logs\ONTARIO\node1\8thManage.log.2014-05-23] sucessful-----------
+ 2014-09-26 10:10:04,646 [LogRecycle]-[DEBUG] ---------recycleLog file [C:\WisageTechHT\8thManage\logs\ONTARIO\node1\8thManage.log.2014-06-04] sucessful-----------
+ 2014-09-26 10:10:04,662 [LogRecycle]-[DEBUG] ---------recycleLog file [C:\WisageTechHT\8thManage\logs\ONTARIO\node1\8thManage.log.2014-06-05] sucessful-----------
+ 2014-09-26 10:10:04,662 [LogRecycle]-[DEBUG] ---------recycleLog file [C:\WisageTechHT\8thManage\logs\ONTARIO\node1\8thManage.log.2014-06-06] sucessful-----------
+ 2014-09-26 10:10:04,677 [LogRecycle]-[DEBUG] ---------recycleLog file [C:\WisageTechHT\8thManage\logs\ONTARIO\node1\8thManage.log.2014-06-07] sucessful-----------
+ 2014-09-26 10:10:04,693 [LogRecycle]-[DEBUG] ---------recycleLog file [C:\WisageTechHT\8thManage\logs\ONTARIO\node1\8thManage.log.2014-06-09] sucessful-----------
+ 2014-09-26 10:10:04,724 [LogRecycle]-[DEBUG] ---------recycleLog file [C:\WisageTechHT\8thManage\logs\ONTARIO\node1\8thManage.log.2014-06-10] sucessful-----------
+ 2014-09-26 10:10:04,739 [LogRecycle]-[DEBUG] ---------recycleLog file [C:\WisageTechHT\8thManage\logs\ONTARIO\node1\8thManage.log.2014-06-14] sucessful-----------
+ 2014-09-26 10:10:04,739 [LogRecycle]-[DEBUG] ---------recycleLog file [C:\WisageTechHT\8thManage\logs\ONTARIO\node1\8thManage.log.2014-06-17] sucessful-----------
+ 2014-09-26 10:10:04,771 [LogRecycle]-[DEBUG] ---------recycleLog file [C:\WisageTechHT\8thManage\logs\ONTARIO\node1\8thManage.log.2014-07-02] sucessful-----------
+ 2014-09-26 10:10:04,802 [LogRecycle]-[DEBUG] ---------recycleLog file [C:\WisageTechHT\8thManage\logs\ONTARIO\node1\8thManage.log.2014-07-03] sucessful-----------
+ 2014-09-26 10:10:04,802 [LogRecycle]-[DEBUG] ---------recycle log file 11 sucessful.---------
+ 2014-09-26 10:10:04,802 [LogRecycle]-[DEBUG] ---------recycleLog for folder [C:\WisageTechHT\8thManage\logs\ONTARIO\node1] end-----------
+ 2014-09-26 10:10:04,802 [LogRecycle]-[DEBUG] ---------recycleLog for folder [C:\WisageTechR1\8thManage\logs\ONTARIO\node1] start-----------
+ 2014-09-26 10:10:04,817 [LogRecycle]-[DEBUG] ---------recycle log file 0 sucessful.---------
+ 2014-09-26 10:10:04,817 [LogRecycle]-[DEBUG] ---------recycleLog for folder [C:\WisageTechR1\8thManage\logs\ONTARIO\node1] end-----------
+ 2014-09-26 10:10:04,817 [LogRecycle]-[DEBUG] ---------recycleLog for folder [C:\WisageTechSCMP\8thManage\logs\ONTARIO\node1] start-----------
+ 2014-09-26 10:10:04,864 [LogRecycle]-[DEBUG] ---------recycleLog file [C:\WisageTechSCMP\8thManage\logs\ONTARIO\node1\8thManage.log.2014-07-14] sucessful-----------
+ 2014-09-26 10:10:04,880 [LogRecycle]-[DEBUG] ---------recycleLog file [C:\WisageTechSCMP\8thManage\logs\ONTARIO\node1\8thManage.log.2014-07-16] sucessful-----------
+ 2014-09-26 10:10:04,895 [LogRecycle]-[DEBUG] ---------recycleLog file [C:\WisageTechSCMP\8thManage\logs\ONTARIO\node1\8thManage.log.2014-07-17] sucessful-----------
+ 2014-09-26 10:10:04,895 [LogRecycle]-[DEBUG] ---------recycleLog file [C:\WisageTechSCMP\8thManage\logs\ONTARIO\node1\8thManage.log.2014-07-18] sucessful-----------
+ 2014-09-26 10:10:04,895 [LogRecycle]-[DEBUG] ---------recycle log file 4 sucessful.---------
+ 2014-09-26 10:10:04,895 [LogRecycle]-[DEBUG] ---------recycleLog for folder [C:\WisageTechSCMP\8thManage\logs\ONTARIO\node1] end-----------
+ 2014-09-26 10:10:04,895 [LogRecycle]-[DEBUG] ---------recycleLog for folder [C:\WisageTechSJM\8thManage\logs\ONTARIO\node1] start-----------
+ 2014-09-26 10:10:04,926 [LogRecycle]-[DEBUG] ---------recycle log file 0 sucessful.---------
+ 2014-09-26 10:10:04,926 [LogRecycle]-[DEBUG] ---------recycleLog for folder [C:\WisageTechSJM\8thManage\logs\ONTARIO\node1] end-----------
+ 2014-09-26 10:10:04,926 [LogRecycle]-[DEBUG] ---------recycleLog for folder [C:\WisageTechTest\8thManage\logs\ONTARIO\node1] start-----------
+ 2014-09-26 10:10:04,973 [LogRecycle]-[DEBUG] ---------recycle log file 0 sucessful.---------
+ 2014-09-26 10:10:04,973 [LogRecycle]-[DEBUG] ---------recycleLog for folder [C:\WisageTechTest\8thManage\logs\ONTARIO\node1] end-----------
+ 2014-09-26 10:10:04,973 [LogRecycle]-[DEBUG] ---------recycleLog for folder [C:\WisageTechTT\8thManage\logs\ONTARIO\node1] start-----------
+ 2014-09-26 10:10:05,020 [LogRecycle]-[DEBUG] ---------recycle log file 0 sucessful.---------
+ 2014-09-26 10:10:05,020 [LogRecycle]-[DEBUG] ---------recycleLog for folder [C:\WisageTechTT\8thManage\logs\ONTARIO\node1] end-----------
+ 2014-09-26 10:10:05,020 [LogRecycle]-[DEBUG] ---------recycleLog for folder [C:\WisageTechWHB\8thManage\logs\ONTARIO\node1] start-----------
+ 2014-09-26 10:10:05,036 [LogRecycle]-[DEBUG] ---------recycleLog file [C:\WisageTechWHB\8thManage\logs\ONTARIO\node1\8thManage.log.2014-09-03] sucessful-----------
+ 2014-09-26 10:10:05,051 [LogRecycle]-[DEBUG] ---------recycleLog file [C:\WisageTechWHB\8thManage\logs\ONTARIO\node1\8thManage.log.2014-09-04] sucessful-----------
+ 2014-09-26 10:10:05,082 [LogRecycle]-[DEBUG] ---------recycleLog file [C:\WisageTechWHB\8thManage\logs\ONTARIO\node1\8thManage.log.2014-09-05] sucessful-----------
+ 2014-09-26 10:10:05,082 [LogRecycle]-[DEBUG] ---------recycleLog file [C:\WisageTechWHB\8thManage\logs\ONTARIO\node1\8thManage.log.2014-09-09] sucessful-----------
+ 2014-09-26 10:10:05,114 [LogRecycle]-[DEBUG] ---------recycleLog file [C:\WisageTechWHB\8thManage\logs\ONTARIO\node1\8thManage.log.2014-09-10] sucessful-----------
+ 2014-09-26 10:10:05,129 [LogRecycle]-[DEBUG] ---------recycleLog file [C:\WisageTechWHB\8thManage\logs\ONTARIO\node1\8thManage.log.2014-09-11] sucessful-----------
+ 2014-09-26 10:10:05,160 [LogRecycle]-[DEBUG] ---------recycleLog file [C:\WisageTechWHB\8thManage\logs\ONTARIO\node1\8thManage.log.2014-09-15] sucessful-----------
+ 2014-09-26 10:10:05,191 [LogRecycle]-[DEBUG] ---------recycleLog file [C:\WisageTechWHB\8thManage\logs\ONTARIO\node1\8thManage.log.2014-09-16] sucessful-----------
+ 2014-09-26 10:10:05,191 [LogRecycle]-[DEBUG] ---------recycle log file 8 sucessful.---------
+ 2014-09-26 10:10:05,191 [LogRecycle]-[DEBUG] ---------recycleLog for folder [C:\WisageTechWHB\8thManage\logs\ONTARIO\node1] end-----------
+ 2014-09-26 10:10:05,191 [LogRecycle]-[DEBUG] ---------recycleLog for folder [C:\WisageTechWHB_New\8thManage\logs\ONTARIO\node1] start-----------
+ 2014-09-26 10:10:05,238 [LogRecycle]-[DEBUG] ---------recycleLog file [C:\WisageTechWHB_New\8thManage\logs\ONTARIO\node1\8thManage.log.2014-09-03] sucessful-----------
+ 2014-09-26 10:10:05,238 [LogRecycle]-[DEBUG] ---------recycleLog file [C:\WisageTechWHB_New\8thManage\logs\ONTARIO\node1\8thManage.log.2014-09-09] sucessful-----------
+ 2014-09-26 10:10:05,254 [LogRecycle]-[DEBUG] ---------recycleLog file [C:\WisageTechWHB_New\8thManage\logs\ONTARIO\node1\8thManage.log.2014-09-10] sucessful-----------
+ 2014-09-26 10:10:05,254 [LogRecycle]-[DEBUG] ---------recycleLog file [C:\WisageTechWHB_New\8thManage\logs\ONTARIO\node1\8thManage.log.2014-09-15] sucessful-----------
+ 2014-09-26 10:10:05,285 [LogRecycle]-[DEBUG] ---------recycleLog file [C:\WisageTechWHB_New\8thManage\logs\ONTARIO\node1\8thManage.log.2014-09-16] sucessful-----------
+ 2014-09-26 10:10:05,316 [LogRecycle]-[DEBUG] ---------recycleLog file [C:\WisageTechWHB_New\8thManage\logs\ONTARIO\node1\8thManage.log.2014-09-17] sucessful-----------
+ 2014-09-26 10:10:05,332 [LogRecycle]-[DEBUG] ---------recycleLog file [C:\WisageTechWHB_New\8thManage\logs\ONTARIO\node1\8thManage.log.2014-09-18] sucessful-----------
+ 2014-09-26 10:10:05,347 [LogRecycle]-[DEBUG] ---------recycleLog file [C:\WisageTechWHB_New\8thManage\logs\ONTARIO\node1\8thManage.log.2014-09-19] sucessful-----------
+ 2014-09-26 10:10:05,363 [LogRecycle]-[DEBUG] ---------recycleLog file [C:\WisageTechWHB_New\8thManage\logs\ONTARIO\node1\8thManage.log.2014-09-22] sucessful-----------
+ 2014-09-26 10:10:05,363 [LogRecycle]-[DEBUG] ---------recycle log file 9 sucessful.---------
+ 2014-09-26 10:10:05,363 [LogRecycle]-[DEBUG] ---------recycleLog for folder [C:\WisageTechWHB_New\8thManage\logs\ONTARIO\node1] end-----------
+ 2014-09-26 10:10:05,363 [LogRecycle]-[DEBUG] ---------recycleLog for folder [C:\WisageTech_jdk1.5.0_08.zip\8thManage\logs\ONTARIO\node1] start-----------
+ 2014-09-26 10:10:05,363 [LogRecycle]-[DEBUG] ---------recycle log file 0 sucessful.---------
+ 2014-09-26 10:10:05,363 [LogRecycle]-[DEBUG] ---------recycleLog for folder [C:\WisageTech_jdk1.5.0_08.zip\8thManage\logs\ONTARIO\node1] end-----------
+ 2014-09-26 10:10:05,363 [LogRecycle]-[DEBUG] ---------recycleLog for folder [C:\WisageTech_jdk1.6.0_33 - x86.rar\8thManage\logs\ONTARIO\node1] start-----------
+ 2014-09-26 10:10:05,378 [LogRecycle]-[DEBUG] ---------recycle log file 0 sucessful.---------
+ 2014-09-26 10:10:05,378 [LogRecycle]-[DEBUG] ---------recycleLog for folder [C:\WisageTech_jdk1.6.0_33 - x86.rar\8thManage\logs\ONTARIO\node1] end-----------
+ 2014-09-26 10:10:05,378 [LogRecycle]-[DEBUG] ---------recycleLog for folder [C:\WisageTech_seebon\8thManage\logs\ONTARIO\node1] start-----------
+ 2014-09-26 10:10:05,519 [LogRecycle]-[DEBUG] ---------recycle log file 0 sucessful.---------
+ 2014-09-26 10:10:05,519 [LogRecycle]-[DEBUG] ---------recycleLog for folder [C:\WisageTech_seebon\8thManage\logs\ONTARIO\node1] end-----------
+ 2014-09-26 10:10:05,519 [LogRecycle]-[DEBUG] ---------recycleLog for folder [C:\WisageTech_TalkWei\8thManage\logs\ONTARIO\node1] start-----------
+ 2014-09-26 10:10:05,612 [LogRecycle]-[DEBUG] ---------recycle log file 0 sucessful.---------
+ 2014-09-26 10:10:05,612 [LogRecycle]-[DEBUG] ---------recycleLog for folder [C:\WisageTech_TalkWei\8thManage\logs\ONTARIO\node1] end-----------
+ 2014-09-26 10:10:05,612 [LogRecycle]-[DEBUG] ---------recycleLog for folder [C:\WisageTech_VW\8thManage\logs\ONTARIO\node1] start-----------
+ 2014-09-26 10:10:05,830 [LogRecycle]-[DEBUG] ---------recycle log file 0 sucessful.---------
+ 2014-09-26 10:10:05,830 [LogRecycle]-[DEBUG] ---------recycleLog for folder [C:\WisageTech_VW\8thManage\logs\ONTARIO\node1] end-----------
+ 2014-09-26 10:10:05,830 [LogRecycle]-[DEBUG] ---------recycle log file before 3days end-----
+ 

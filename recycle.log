@@ -1,0 +1,108 @@
+2014-10-28 09:32:34,765 [LogRecycle]-[DEBUG] ---------recycle log file before 3 days beging-----
+ 2014-10-28 09:32:34,765 [LogRecycle]-[DEBUG] ---------recycleLog for folder [D:\WisageTech2.2\8thManage\logs\DEVZHAJING\node1] start-----------
+ 2014-10-28 09:32:34,796 [LogRecycle]-[DEBUG] ---------recycle log file 0 sucessful.---------
+ 2014-10-28 09:32:34,796 [LogRecycle]-[DEBUG] ---------recycleLog for folder [D:\WisageTech2.2\8thManage\logs\DEVZHAJING\node1] end-----------
+ 2014-10-28 09:32:34,796 [LogRecycle]-[DEBUG] ---------recycleLog for folder [D:\WisageTech2.2Test\8thManage\logs\DEVZHAJING\node1] start-----------
+ 2014-10-28 09:32:34,827 [LogRecycle]-[DEBUG] ---------recycleLog file [D:\WisageTech2.2Test\8thManage\logs\DEVZHAJING\node1\8thManage.log.2014-10-10] sucessful-----------
+ 2014-10-28 09:32:34,827 [LogRecycle]-[DEBUG] ---------recycle log file 1 sucessful.---------
+ 2014-10-28 09:32:34,827 [LogRecycle]-[DEBUG] ---------recycleLog for folder [D:\WisageTech2.2Test\8thManage\logs\DEVZHAJING\node1] end-----------
+ 2014-10-28 09:32:34,827 [LogRecycle]-[DEBUG] ---------recycleLog for folder [D:\WisageTech2.3\8thManage\logs\DEVZHAJING\node1] start-----------
+ 2014-10-28 09:32:34,858 [LogRecycle]-[DEBUG] ---------recycleLog file [D:\WisageTech2.3\8thManage\logs\DEVZHAJING\node1\8thManage.log.2014-10-08] sucessful-----------
+ 2014-10-28 09:32:34,858 [LogRecycle]-[DEBUG] ---------recycleLog file [D:\WisageTech2.3\8thManage\logs\DEVZHAJING\node1\8thManage.log.2014-10-09] sucessful-----------
+ 2014-10-28 09:32:34,874 [LogRecycle]-[DEBUG] ---------recycleLog file [D:\WisageTech2.3\8thManage\logs\DEVZHAJING\node1\8thManage.log.2014-10-21] sucessful-----------
+ 2014-10-28 09:32:34,874 [LogRecycle]-[DEBUG] ---------recycleLog file [D:\WisageTech2.3\8thManage\logs\DEVZHAJING\node1\8thManage.log.2014-10-22] sucessful-----------
+ 2014-10-28 09:32:34,874 [LogRecycle]-[DEBUG] ---------recycle log file 4 sucessful.---------
+ 2014-10-28 09:32:34,874 [LogRecycle]-[DEBUG] ---------recycleLog for folder [D:\WisageTech2.3\8thManage\logs\DEVZHAJING\node1] end-----------
+ 2014-10-28 09:32:34,874 [LogRecycle]-[DEBUG] ---------recycleLog for folder [D:\WisageTech2.3Snapshot\8thManage\logs\DEVZHAJING\node1] start-----------
+ 2014-10-28 09:32:34,920 [LogRecycle]-[DEBUG] ---------recycleLog file [D:\WisageTech2.3Snapshot\8thManage\logs\DEVZHAJING\node1\8thManage.log.2014-10-08] sucessful-----------
+ 2014-10-28 09:32:34,920 [LogRecycle]-[DEBUG] ---------recycleLog file [D:\WisageTech2.3Snapshot\8thManage\logs\DEVZHAJING\node1\8thManage.log.2014-10-09] sucessful-----------
+ 2014-10-28 09:32:34,920 [LogRecycle]-[DEBUG] ---------recycleLog file [D:\WisageTech2.3Snapshot\8thManage\logs\DEVZHAJING\node1\8thManage.log.2014-10-15] sucessful-----------
+ 2014-10-28 09:32:34,936 [LogRecycle]-[DEBUG] ---------recycleLog file [D:\WisageTech2.3Snapshot\8thManage\logs\DEVZHAJING\node1\8thManage.log.2014-10-16] sucessful-----------
+ 2014-10-28 09:32:34,936 [LogRecycle]-[DEBUG] ---------recycle log file 4 sucessful.---------
+ 2014-10-28 09:32:34,936 [LogRecycle]-[DEBUG] ---------recycleLog for folder [D:\WisageTech2.3Snapshot\8thManage\logs\DEVZHAJING\node1] end-----------
+ 2014-10-28 09:32:34,936 [LogRecycle]-[DEBUG] ---------recycleLog for folder [D:\WisageTechEverok\8thManage\logs\DEVZHAJING\node1] start-----------
+ 2014-10-28 09:32:34,967 [LogRecycle]-[DEBUG] ---------recycleLog file [D:\WisageTechEverok\8thManage\logs\DEVZHAJING\node1\8thManage.log.2014-10-10] sucessful-----------
+ 2014-10-28 09:32:34,967 [LogRecycle]-[DEBUG] ---------recycleLog file [D:\WisageTechEverok\8thManage\logs\DEVZHAJING\node1\8thManage.log.2014-10-11] sucessful-----------
+ 2014-10-28 09:32:34,967 [LogRecycle]-[DEBUG] ---------recycle log file 2 sucessful.---------
+ 2014-10-28 09:32:34,967 [LogRecycle]-[DEBUG] ---------recycleLog for folder [D:\WisageTechEverok\8thManage\logs\DEVZHAJING\node1] end-----------
+ 2014-10-28 09:32:34,967 [LogRecycle]-[DEBUG] ---------recycleLog for folder [D:\WisageTechWHB\8thManage\logs\DEVZHAJING\node1] start-----------
+ 2014-10-28 09:32:34,983 [LogRecycle]-[DEBUG] ---------recycleLog file [D:\WisageTechWHB\8thManage\logs\DEVZHAJING\node1\8thManage.log.2014-10-24] sucessful-----------
+ 2014-10-28 09:32:34,983 [LogRecycle]-[DEBUG] ---------recycle log file 1 sucessful.---------
+ 2014-10-28 09:32:34,983 [LogRecycle]-[DEBUG] ---------recycleLog for folder [D:\WisageTechWHB\8thManage\logs\DEVZHAJING\node1] end-----------
+ 2014-10-28 09:32:34,983 [LogRecycle]-[DEBUG] ---------recycleLog for folder [D:\WisageTechWHB_New\8thManage\logs\DEVZHAJING\node1] start-----------
+ 2014-10-28 09:32:34,983 [LogRecycle]-[DEBUG] ---------recycleLog file [D:\WisageTechWHB_New\8thManage\logs\DEVZHAJING\node1\8thManage.log.2014-10-22] sucessful-----------
+ 2014-10-28 09:32:34,983 [LogRecycle]-[DEBUG] ---------recycleLog file [D:\WisageTechWHB_New\8thManage\logs\DEVZHAJING\node1\8thManage.log.2014-10-23] sucessful-----------
+ 2014-10-28 09:32:34,983 [LogRecycle]-[DEBUG] ---------recycleLog file [D:\WisageTechWHB_New\8thManage\logs\DEVZHAJING\node1\8thManage.log.2014-10-24] sucessful-----------
+ 2014-10-28 09:32:34,983 [LogRecycle]-[DEBUG] ---------recycle log file 3 sucessful.---------
+ 2014-10-28 09:32:34,983 [LogRecycle]-[DEBUG] ---------recycleLog for folder [D:\WisageTechWHB_New\8thManage\logs\DEVZHAJING\node1] end-----------
+ 2014-10-28 09:32:34,983 [LogRecycle]-[DEBUG] ---------recycle log file before 3days end-----
+ 2014-10-28 09:38:37,261 [LogRecycle]-[DEBUG] ---------recycle log file before 3 days beging-----
+ 2014-10-28 09:38:37,276 [LogRecycle]-[DEBUG] ---------recycleLog for folder [D:\WisageTech2.2\8thManage\logs\DEVZHAJING\node1] start-----------
+ 2014-10-28 09:38:37,276 [LogRecycle]-[DEBUG] ---------recycle log file 0 sucessful.---------
+ 2014-10-28 09:38:37,276 [LogRecycle]-[DEBUG] ---------recycleLog for folder [D:\WisageTech2.2\8thManage\logs\DEVZHAJING\node1] end-----------
+ 2014-10-28 09:38:37,276 [LogRecycle]-[DEBUG] ---------recycleLog for folder [D:\WisageTech2.2Test\8thManage\logs\DEVZHAJING\node1] start-----------
+ 2014-10-28 09:38:37,276 [LogRecycle]-[DEBUG] ---------recycle log file 0 sucessful.---------
+ 2014-10-28 09:38:37,276 [LogRecycle]-[DEBUG] ---------recycleLog for folder [D:\WisageTech2.2Test\8thManage\logs\DEVZHAJING\node1] end-----------
+ 2014-10-28 09:38:37,276 [LogRecycle]-[DEBUG] ---------recycleLog for folder [D:\WisageTech2.3\8thManage\logs\DEVZHAJING\node1] start-----------
+ 2014-10-28 09:38:37,276 [LogRecycle]-[DEBUG] ---------recycle log file 0 sucessful.---------
+ 2014-10-28 09:38:37,276 [LogRecycle]-[DEBUG] ---------recycleLog for folder [D:\WisageTech2.3\8thManage\logs\DEVZHAJING\node1] end-----------
+ 2014-10-28 09:38:37,276 [LogRecycle]-[DEBUG] ---------recycleLog for folder [D:\WisageTech2.3Snapshot\8thManage\logs\DEVZHAJING\node1] start-----------
+ 2014-10-28 09:38:37,276 [LogRecycle]-[DEBUG] ---------recycle log file 0 sucessful.---------
+ 2014-10-28 09:38:37,276 [LogRecycle]-[DEBUG] ---------recycleLog for folder [D:\WisageTech2.3Snapshot\8thManage\logs\DEVZHAJING\node1] end-----------
+ 2014-10-28 09:38:37,276 [LogRecycle]-[DEBUG] ---------recycleLog for folder [D:\WisageTechEverok\8thManage\logs\DEVZHAJING\node1] start-----------
+ 2014-10-28 09:38:37,276 [LogRecycle]-[DEBUG] ---------recycle log file 0 sucessful.---------
+ 2014-10-28 09:38:37,276 [LogRecycle]-[DEBUG] ---------recycleLog for folder [D:\WisageTechEverok\8thManage\logs\DEVZHAJING\node1] end-----------
+ 2014-10-28 09:38:37,276 [LogRecycle]-[DEBUG] ---------recycleLog for folder [D:\WisageTechWHB\8thManage\logs\DEVZHAJING\node1] start-----------
+ 2014-10-28 09:38:37,276 [LogRecycle]-[DEBUG] ---------recycle log file 0 sucessful.---------
+ 2014-10-28 09:38:37,276 [LogRecycle]-[DEBUG] ---------recycleLog for folder [D:\WisageTechWHB\8thManage\logs\DEVZHAJING\node1] end-----------
+ 2014-10-28 09:38:37,276 [LogRecycle]-[DEBUG] ---------recycleLog for folder [D:\WisageTechWHB_New\8thManage\logs\DEVZHAJING\node1] start-----------
+ 2014-10-28 09:38:37,276 [LogRecycle]-[DEBUG] ---------recycle log file 0 sucessful.---------
+ 2014-10-28 09:38:37,276 [LogRecycle]-[DEBUG] ---------recycleLog for folder [D:\WisageTechWHB_New\8thManage\logs\DEVZHAJING\node1] end-----------
+ 2014-10-28 09:38:37,276 [LogRecycle]-[DEBUG] ---------recycle log file before 3days end-----
+ 2014-10-28 11:28:37,810 [LogRecycle]-[DEBUG] ---------recycle log file before 3 days beging-----
+ 2014-10-28 11:28:37,810 [LogRecycle]-[DEBUG] ---------recycleLog for folder [D:\WisageTech2.2\8thManage\logs\DEVZHAJING\node1] start-----------
+ 2014-10-28 11:28:37,826 [LogRecycle]-[DEBUG] ---------recycle log file 0 sucessful.---------
+ 2014-10-28 11:28:37,826 [LogRecycle]-[DEBUG] ---------recycleLog for folder [D:\WisageTech2.2\8thManage\logs\DEVZHAJING\node1] end-----------
+ 2014-10-28 11:28:37,826 [LogRecycle]-[DEBUG] ---------recycleLog for folder [D:\WisageTech2.2Test\8thManage\logs\DEVZHAJING\node1] start-----------
+ 2014-10-28 11:28:37,842 [LogRecycle]-[DEBUG] ---------recycle log file 0 sucessful.---------
+ 2014-10-28 11:28:37,842 [LogRecycle]-[DEBUG] ---------recycleLog for folder [D:\WisageTech2.2Test\8thManage\logs\DEVZHAJING\node1] end-----------
+ 2014-10-28 11:28:37,842 [LogRecycle]-[DEBUG] ---------recycleLog for folder [D:\WisageTech2.3\8thManage\logs\DEVZHAJING\node1] start-----------
+ 2014-10-28 11:28:37,842 [LogRecycle]-[DEBUG] ---------recycle log file 0 sucessful.---------
+ 2014-10-28 11:28:37,842 [LogRecycle]-[DEBUG] ---------recycleLog for folder [D:\WisageTech2.3\8thManage\logs\DEVZHAJING\node1] end-----------
+ 2014-10-28 11:28:37,842 [LogRecycle]-[DEBUG] ---------recycleLog for folder [D:\WisageTech2.3Snapshot\8thManage\logs\DEVZHAJING\node1] start-----------
+ 2014-10-28 11:28:37,842 [LogRecycle]-[DEBUG] ---------recycle log file 0 sucessful.---------
+ 2014-10-28 11:28:37,842 [LogRecycle]-[DEBUG] ---------recycleLog for folder [D:\WisageTech2.3Snapshot\8thManage\logs\DEVZHAJING\node1] end-----------
+ 2014-10-28 11:28:37,842 [LogRecycle]-[DEBUG] ---------recycleLog for folder [D:\WisageTechEverok\8thManage\logs\DEVZHAJING\node1] start-----------
+ 2014-10-28 11:28:37,842 [LogRecycle]-[DEBUG] ---------recycle log file 0 sucessful.---------
+ 2014-10-28 11:28:37,842 [LogRecycle]-[DEBUG] ---------recycleLog for folder [D:\WisageTechEverok\8thManage\logs\DEVZHAJING\node1] end-----------
+ 2014-10-28 11:28:37,842 [LogRecycle]-[DEBUG] ---------recycleLog for folder [D:\WisageTechWHB\8thManage\logs\DEVZHAJING\node1] start-----------
+ 2014-10-28 11:28:37,842 [LogRecycle]-[DEBUG] ---------recycle log file 0 sucessful.---------
+ 2014-10-28 11:28:37,842 [LogRecycle]-[DEBUG] ---------recycleLog for folder [D:\WisageTechWHB\8thManage\logs\DEVZHAJING\node1] end-----------
+ 2014-10-28 11:28:37,842 [LogRecycle]-[DEBUG] ---------recycleLog for folder [D:\WisageTechWHB_New\8thManage\logs\DEVZHAJING\node1] start-----------
+ 2014-10-28 11:28:37,842 [LogRecycle]-[DEBUG] ---------recycle log file 0 sucessful.---------
+ 2014-10-28 11:28:37,842 [LogRecycle]-[DEBUG] ---------recycleLog for folder [D:\WisageTechWHB_New\8thManage\logs\DEVZHAJING\node1] end-----------
+ 2014-10-28 11:28:37,842 [LogRecycle]-[DEBUG] ---------recycle log file before 3days end-----
+ 2014-10-28 11:31:55,870 [LogRecycle]-[DEBUG] ---------recycle log file before 3 days beging-----
+ 2014-10-28 11:31:55,870 [LogRecycle]-[DEBUG] ---------recycleLog for folder [D:\WisageTech2.2\8thManage\logs\DEVZHAJING\node1] start-----------
+ 2014-10-28 11:31:55,870 [LogRecycle]-[DEBUG] ---------recycle log file 0 sucessful.---------
+ 2014-10-28 11:31:55,870 [LogRecycle]-[DEBUG] ---------recycleLog for folder [D:\WisageTech2.2\8thManage\logs\DEVZHAJING\node1] end-----------
+ 2014-10-28 11:31:55,870 [LogRecycle]-[DEBUG] ---------recycleLog for folder [D:\WisageTech2.2Test\8thManage\logs\DEVZHAJING\node1] start-----------
+ 2014-10-28 11:31:55,870 [LogRecycle]-[DEBUG] ---------recycle log file 0 sucessful.---------
+ 2014-10-28 11:31:55,870 [LogRecycle]-[DEBUG] ---------recycleLog for folder [D:\WisageTech2.2Test\8thManage\logs\DEVZHAJING\node1] end-----------
+ 2014-10-28 11:31:55,870 [LogRecycle]-[DEBUG] ---------recycleLog for folder [D:\WisageTech2.3\8thManage\logs\DEVZHAJING\node1] start-----------
+ 2014-10-28 11:31:55,870 [LogRecycle]-[DEBUG] ---------recycle log file 0 sucessful.---------
+ 2014-10-28 11:31:55,870 [LogRecycle]-[DEBUG] ---------recycleLog for folder [D:\WisageTech2.3\8thManage\logs\DEVZHAJING\node1] end-----------
+ 2014-10-28 11:31:55,870 [LogRecycle]-[DEBUG] ---------recycleLog for folder [D:\WisageTech2.3Snapshot\8thManage\logs\DEVZHAJING\node1] start-----------
+ 2014-10-28 11:31:55,870 [LogRecycle]-[DEBUG] ---------recycle log file 0 sucessful.---------
+ 2014-10-28 11:31:55,870 [LogRecycle]-[DEBUG] ---------recycleLog for folder [D:\WisageTech2.3Snapshot\8thManage\logs\DEVZHAJING\node1] end-----------
+ 2014-10-28 11:31:55,870 [LogRecycle]-[DEBUG] ---------recycleLog for folder [D:\WisageTechEverok\8thManage\logs\DEVZHAJING\node1] start-----------
+ 2014-10-28 11:31:55,870 [LogRecycle]-[DEBUG] ---------recycle log file 0 sucessful.---------
+ 2014-10-28 11:31:55,870 [LogRecycle]-[DEBUG] ---------recycleLog for folder [D:\WisageTechEverok\8thManage\logs\DEVZHAJING\node1] end-----------
+ 2014-10-28 11:31:55,870 [LogRecycle]-[DEBUG] ---------recycleLog for folder [D:\WisageTechWHB\8thManage\logs\DEVZHAJING\node1] start-----------
+ 2014-10-28 11:31:55,886 [LogRecycle]-[DEBUG] ---------recycle log file 0 sucessful.---------
+ 2014-10-28 11:31:55,886 [LogRecycle]-[DEBUG] ---------recycleLog for folder [D:\WisageTechWHB\8thManage\logs\DEVZHAJING\node1] end-----------
+ 2014-10-28 11:31:55,886 [LogRecycle]-[DEBUG] ---------recycleLog for folder [D:\WisageTechWHB_New\8thManage\logs\DEVZHAJING\node1] start-----------
+ 2014-10-28 11:31:55,886 [LogRecycle]-[DEBUG] ---------recycle log file 0 sucessful.---------
+ 2014-10-28 11:31:55,886 [LogRecycle]-[DEBUG] ---------recycleLog for folder [D:\WisageTechWHB_New\8thManage\logs\DEVZHAJING\node1] end-----------
+ 2014-10-28 11:31:55,886 [LogRecycle]-[DEBUG] ---------recycle log file before 3days end-----
+ 
